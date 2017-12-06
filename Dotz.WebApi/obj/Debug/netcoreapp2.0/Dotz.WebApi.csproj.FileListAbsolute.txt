@@ -1,0 +1,15 @@
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\bin\Debug\netcoreapp2.0\Dotz.WebApi.deps.json
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\bin\Debug\netcoreapp2.0\Dotz.WebApi.runtimeconfig.json
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\bin\Debug\netcoreapp2.0\Dotz.WebApi.runtimeconfig.dev.json
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\bin\Debug\netcoreapp2.0\Dotz.WebApi.dll
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\bin\Debug\netcoreapp2.0\Dotz.WebApi.pdb
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\bin\Debug\netcoreapp2.0\Dotz.Application.dll
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\bin\Debug\netcoreapp2.0\Dotz.Data.MongoDb.dll
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\bin\Debug\netcoreapp2.0\Dotz.Application.pdb
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\bin\Debug\netcoreapp2.0\Dotz.Data.MongoDb.pdb
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\obj\Debug\netcoreapp2.0\Dotz.WebApi.csprojResolveAssemblyReference.cache
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\obj\Debug\netcoreapp2.0\Dotz.WebApi.csproj.CoreCompileInputs.cache
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\obj\Debug\netcoreapp2.0\Dotz.WebApi.AssemblyInfoInputs.cache
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\obj\Debug\netcoreapp2.0\Dotz.WebApi.AssemblyInfo.cs
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\obj\Debug\netcoreapp2.0\Dotz.WebApi.dll
+D:\DotzTeste\Dotz.WebApi\Dotz.WebApi\obj\Debug\netcoreapp2.0\Dotz.WebApi.pdb

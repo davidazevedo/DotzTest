@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lara Software\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lara Software\\.nuget\\packages",
+      "C:\\Users\\Lara Software\\.dotnet\\NuGetFallbackFolder",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

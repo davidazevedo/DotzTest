@@ -1,0 +1,9 @@
+D:\DotzTeste\Dotz.WebApi\Dotz.Data.MongoDb\bin\Debug\netcoreapp2.0\Dotz.Data.MongoDb.deps.json
+D:\DotzTeste\Dotz.WebApi\Dotz.Data.MongoDb\bin\Debug\netcoreapp2.0\Dotz.Data.MongoDb.dll
+D:\DotzTeste\Dotz.WebApi\Dotz.Data.MongoDb\bin\Debug\netcoreapp2.0\Dotz.Data.MongoDb.pdb
+D:\DotzTeste\Dotz.WebApi\Dotz.Data.MongoDb\obj\Debug\netcoreapp2.0\Dotz.Data.MongoDb.csprojResolveAssemblyReference.cache
+D:\DotzTeste\Dotz.WebApi\Dotz.Data.MongoDb\obj\Debug\netcoreapp2.0\Dotz.Data.MongoDb.csproj.CoreCompileInputs.cache
+D:\DotzTeste\Dotz.WebApi\Dotz.Data.MongoDb\obj\Debug\netcoreapp2.0\Dotz.Data.MongoDb.AssemblyInfoInputs.cache
+D:\DotzTeste\Dotz.WebApi\Dotz.Data.MongoDb\obj\Debug\netcoreapp2.0\Dotz.Data.MongoDb.AssemblyInfo.cs
+D:\DotzTeste\Dotz.WebApi\Dotz.Data.MongoDb\obj\Debug\netcoreapp2.0\Dotz.Data.MongoDb.dll
+D:\DotzTeste\Dotz.WebApi\Dotz.Data.MongoDb\obj\Debug\netcoreapp2.0\Dotz.Data.MongoDb.pdb
